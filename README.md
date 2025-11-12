@@ -5,4 +5,4 @@ I am evaluating AI responses, improving clarity, and learning how to teach AI to
 
 ## Tasks
 - **Day 1:** RAM vs ROM evaluation – 11/11/2025
-- **Day 2:** ...
+- **Day 2:** Evaluating Tone and Clarity in AI Responses - 11/12/2025
