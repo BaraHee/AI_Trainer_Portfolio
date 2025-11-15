@@ -1,0 +1,85 @@
+Day 4 Task — Improving a Vague Prompt
+
+📅 11/15/2025
+
+
+
+Original prompt:
+
+“Explain how to use models.”
+
+
+
+Why this prompt is bad:
+
+
+
+The word “models” is extremely vague. It could mean:
+
+AI models
+
+Statistical models
+
+3D models
+
+Fashion models
+
+Database models
+
+Business models
+
+
+
+With no context, the AI has no way to understand what the user actually wants.
+
+This leads to weak, generic, or completely incorrect responses.
+
+
+
+Improved versions of the prompt:
+
+
+
+-Basic clarified version
+
+“Explain how to use a machine learning model to make predictions.”
+
+
+
+-More detailed version
+
+“Explain how to load and use a trained machine learning model in Python to 
+
+make predictions on new data.”
+
+
+
+-Professional, full-context version
+
+“Provide a step-by-step guide on preprocessing data, loading a trained machine learning model, and performing inference using Python.”
+
+
+
+Which is the best and why?
+
+
+
+The third version is the strongest because:
+
+It adds full context
+
+It specifies the goal (inference)
+
+It tells the AI the exact environment (Python)
+
+It ensures the answer will be complete and accurate
+
+This is the kind of prompt that removes ambiguity and leads to precise responses.
+
+
+
+My Reflection:
+
+Today’s task showed me how important clarity and context are in prompting.
+
+Vague prompts limit the AI — clear prompts unlock better, more useful answers.
