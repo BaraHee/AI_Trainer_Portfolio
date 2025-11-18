@@ -1,0 +1,32 @@
+Day 7 Task — Structuring Instructions Clearly
+
+11/19/2025
+
+Prompt:
+
+"How do I make a chatbot in Python?"
+
+Response A:
+
+“Use Python and some libraries to make a chatbot.”
+
+Response B:
+
+“To make a chatbot in Python, first choose a library like ChatterBot or NLTK. Start by defining simple question-answer pairs, then expand functionality to handle more complex inputs. Test your chatbot frequently and improve it gradually.”
+
+Evaluation:
+
+Response B is better because:
+
+Provides a step-by-step structure.
+
+Suggests specific tools.
+
+Encourages iteration and testing, which is crucial in learning.
+
+Response A is too vague and won’t guide a beginner effectively.
+
+Reflection:
+
+AI prompts are valuable when they break down complex tasks into clear, actionable steps.
+For prompt engineering, practicing how to structure instructions ensures outputs are practical and usable.
