@@ -1,0 +1,25 @@
+Day 9 — Identifying Missing Context
+
+📅 11/20/2025
+
+Prompt:
+
+“How do I deploy my project?”
+
+Evaluation:
+Too vague. “Project” could be a website, Python script, mobile app, or AI model. Deployment differs per type.
+
+Clarifying questions AI should ask:
+
+What type of project are you deploying?
+
+Which programming language/framework?
+
+Deployment environment (local, cloud, mobile)?
+
+Manual or automated deployment?
+
+Any performance or security requirements?
+
+Reflection:
+As a prompt engineer, I realize context is key. Without it, AI answers are often useless.
